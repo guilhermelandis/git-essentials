@@ -1,3 +1,3 @@
 # Esse é o readme do meu projeto de exemplo.
 #####
-Aqui ficará todo o conteúdo do módulo git essentials.
+Aqui ficará todo o conteúdo do projeto referente ao módulo git essentials.
